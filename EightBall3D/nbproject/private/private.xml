@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/G:/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/entitity/Cursor.java</file>
+        <file>file:/G:/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/entitity/Camera.java</file>
+        <file>file:/G:/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/infra/Mouse.java</file>
+        <file>file:/G:/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/infra/Engine.java</file>
+        <file>file:/G:/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/entitity/HUD.java</file>
+        <file>file:/G:/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/entitity/End.java</file>
+        <file>file:/G:/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/entitity/Title.java</file>
+        <file>file:/G:/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/EightBallScene.java</file>
+        <file>file:/G:/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/infra/Entity.java</file>
+        <file>file:/G:/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/infra/Keyboard.java</file>
+        <file>file:/G:/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/infra/Scene.java</file>
+        <file>file:/G:/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/infra/Time.java</file>
+        <file>file:/G:/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/entitity/Room.java</file>
+        <file>file:/G:/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/entitity/PoolTable.java</file>
+        <file>file:/G:/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/entitity/OLPresents.java</file>
+        <file>file:/G:/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/entitity/Initializer.java</file>
+        <file>file:/G:/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/entitity/GuiPanel.java</file>
+        <file>file:/G:/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/entitity/GuiButton.java</file>
+        <file>file:/G:/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/entitity/FadeEffect.java</file>
+        <file>file:/G:/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/entitity/Processing.java</file>
+        <file>file:/G:/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/BallIconDrawer.java</file>
+        <file>file:/G:/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/EightBallEntity.java</file>
+        <file>file:/G:/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/entitity/Ball3DShadow.java</file>
+    </open-files>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="nfe3">
+            <file>file:/G:/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/infra/Engine.java</file>
+            <file>file:/G:/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/entitity/Ball3DShadow.java</file>
+            <file>file:/G:/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/entitity/Initializer.java</file>
+            <file>file:/G:/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/EightBallScene.java</file>
+            <file>file:/G:/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/entitity/FadeEffect.java</file>
+            <file>file:/G:/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/entitity/GuiButton.java</file>
+            <file>file:/G:/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/entitity/Room.java</file>
+            <file>file:/G:/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/entitity/Ball3D.java</file>
+            <file>file:/G:/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/entitity/Cursor.java</file>
+            <file>file:/G:/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/entitity/PoolTable.java</file>
+            <file>file:/G:/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/entitity/GuiPanel.java</file>
+            <file>file:/G:/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/entitity/Camera.java</file>
+            <file>file:/G:/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/entitity/Title.java</file>
+            <file>file:/G:/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/infra/Mouse.java</file>
+            <file>file:/G:/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/EightBallEntity.java</file>
+            <file>file:/G:/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/entitity/OLPresents.java</file>
+        </group>
+        <group name="war">
+            <file>file:/media/My%20Passport/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/entitity/OLPresents.java</file>
+            <file>file:/media/My%20Passport/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/EightBallEntity.java</file>
+            <file>file:/media/My%20Passport/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/entitity/PoolTable.java</file>
+            <file>file:/media/My%20Passport/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/res/ball.obj</file>
+            <file>file:/media/My%20Passport/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/EightBallScene.java</file>
+            <file>file:/media/My%20Passport/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/res/ol_presents.obj</file>
+            <file>file:/media/My%20Passport/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/res/ball_shadow.obj</file>
+            <file>file:/media/My%20Passport/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/entitity/Initializer.java</file>
+            <file>file:/media/My%20Passport/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/entitity/Room.java</file>
+            <file>file:/media/My%20Passport/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/entitity/Camera.java</file>
+            <file>file:/media/My%20Passport/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/entitity/Ball3DShadow.java</file>
+            <file>file:/media/My%20Passport/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/res/ol_presents.mtl</file>
+            <file>file:/media/My%20Passport/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/infra/Entity.java</file>
+            <file>file:/media/My%20Passport/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/infra/Engine.java</file>
+            <file>file:/media/My%20Passport/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/res/ball.mtl</file>
+            <file>file:/media/My%20Passport/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/entitity/GuiPanel.java</file>
+            <file>file:/media/My%20Passport/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/entitity/GuiButton.java</file>
+            <file>file:/media/My%20Passport/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/entitity/Ball3D.java</file>
+            <file>file:/media/My%20Passport/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/entitity/FadeEffect.java</file>
+            <file>file:/media/My%20Passport/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/infra/Scene.java</file>
+            <file>file:/media/My%20Passport/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/entitity/Title.java</file>
+            <file>file:/media/My%20Passport/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/entitity/Cursor.java</file>
+            <file>file:/media/My%20Passport/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/br/ol/eightball/game/entitity/HUD.java</file>
+            <file>file:/media/My%20Passport/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/main/Main.java</file>
+            <file>file:/media/My%20Passport/Leo/apps/java/2017_3D_EightBall/EightBall3D/src/res/ball_shadow.mtl</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,46 @@
+# Blender MTL File: 'pool_table_last.blend'
+# Material Count: 4
+newmtl _pooltable.png_pooltable.png
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.800000 0.800000 0.800000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd pooltable.png
+
+
+newmtl _pooltable.png_pooltable.png_pooltable.png
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.800000 0.800000 0.800000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd pooltable.png
+
+
+newmtl _pooltable.png_pooltable.png_pooltable2.png
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.800000 0.800000 0.800000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd pooltable2.png
+
+
+newmtl _pooltable.png_pooltable2.png
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.800000 0.800000 0.800000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd pooltable2.png
+
+
